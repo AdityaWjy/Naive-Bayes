@@ -1,0 +1,172 @@
+{
+  "datauji": [
+    {
+      "nama_siswa": "Siswa 81",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 82",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 83",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 84",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 85",
+      "prediksi_user": "Tidak",
+      "hasil_naive_bayes": "Tidak",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 86",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 87",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 88",
+      "prediksi_user": "Tidak",
+      "hasil_naive_bayes": "Tidak",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 89",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 90",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 91",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 92",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 93",
+      "prediksi_user": "Tidak",
+      "hasil_naive_bayes": "Tidak",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 94",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 95",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 96",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 97",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 98",
+      "prediksi_user": "Tidak",
+      "hasil_naive_bayes": "Tidak",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 99",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 100",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 101",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 102",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 103",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 104",
+      "prediksi_user": "Tidak",
+      "hasil_naive_bayes": "Tidak",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 105",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 106",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 107",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    },
+    {
+      "nama_siswa": "Siswa 108",
+      "prediksi_user": "Diterima",
+      "hasil_naive_bayes": "Diterima",
+      "hasil_prediksi": "BENAR"
+    }
+  ]
+}

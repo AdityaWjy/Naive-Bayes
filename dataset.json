@@ -1,0 +1,644 @@
+{
+  "dataset": [
+    {
+      "Nama Siswa": "Siswa 1",
+      "A1": "SB",
+      "A2": "K",
+      "A3": "SB",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 2",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "C",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 3",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 4",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 5",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 6",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 7",
+      "A1": "SB",
+      "A2": "C",
+      "A3": "B",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 8",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 9",
+      "A1": "B",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 10",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 11",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 12",
+      "A1": "SB",
+      "A2": "C",
+      "A3": "B",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 13",
+      "A1": "B",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 14",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "B",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 15",
+      "A1": "C",
+      "A2": "SB",
+      "A3": "B",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 16",
+      "A1": "B",
+      "A2": "C",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 17",
+      "A1": "SB",
+      "A2": "SB",
+      "A3": "SB",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 18",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 19",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 20",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 21",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 22",
+      "A1": "C",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 23",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 24",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 25",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 26",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 27",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 28",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 29",
+      "A1": "B",
+      "A2": "C",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 30",
+      "A1": "C",
+      "A2": "B",
+      "A3": "C",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 31",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 32",
+      "A1": "B",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 33",
+      "A1": "C",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 34",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 35",
+      "A1": "B",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 36",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 37",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "K",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 38",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "SB",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 39",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "C",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 40",
+      "A1": "C",
+      "A2": "SB",
+      "A3": "SB",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 41",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 42",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "C",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 43",
+      "A1": "B",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 44",
+      "A1": "C",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 45",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 46",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "C",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 47",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 48",
+      "A1": "B",
+      "A2": "C",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 49",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 50",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 51",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "B",
+      "A4": "K",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 52",
+      "A1": "B",
+      "A2": "SB",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 53",
+      "A1": "C",
+      "A2": "SB",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 54",
+      "A1": "B",
+      "A2": "C",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 55",
+      "A1": "C",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 56",
+      "A1": "B",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 57",
+      "A1": "B",
+      "A2": "C",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 58",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 59",
+      "A1": "SB",
+      "A2": "SB",
+      "A3": "B",
+      "A4": "SB",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 60",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 61",
+      "A1": "B",
+      "A2": "C",
+      "A3": "B",
+      "A4": "B",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 62",
+      "A1": "B",
+      "A2": "B",
+      "A3": "B",
+      "A4": "C",
+      "Hasil": "Diterima"
+    },
+    {
+      "Nama Siswa": "Siswa 63",
+      "A1": "SB",
+      "A2": "B",
+      "A3": "C",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 64",
+      "A1": "C",
+      "A2": "K",
+      "A3": "C",
+      "A4": "SB",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 65",
+      "A1": "K",
+      "A2": "K",
+      "A3": "B",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 66",
+      "A1": "B",
+      "A2": "B",
+      "A3": "K",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 67",
+      "A1": "B",
+      "A2": "K",
+      "A3": "B",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 68",
+      "A1": "C",
+      "A2": "SB",
+      "A3": "SK",
+      "A4": "SK",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 69",
+      "A1": "SK",
+      "A2": "B",
+      "A3": "C",
+      "A4": "SK",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 70",
+      "A1": "B",
+      "A2": "B",
+      "A3": "K",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 71",
+      "A1": "SK",
+      "A2": "B",
+      "A3": "SB",
+      "A4": "B",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 72",
+      "A1": "B",
+      "A2": "SK",
+      "A3": "C",
+      "A4": "SK",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 73",
+      "A1": "C",
+      "A2": "C",
+      "A3": "SK",
+      "A4": "B",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 74",
+      "A1": "K",
+      "A2": "SK",
+      "A3": "C",
+      "A4": "B",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 75",
+      "A1": "B",
+      "A2": "C",
+      "A3": "C",
+      "A4": "SK",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 76",
+      "A1": "C",
+      "A2": "C",
+      "A3": "K",
+      "A4": "B",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 77",
+      "A1": "B",
+      "A2": "B",
+      "A3": "K",
+      "A4": "B",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 78",
+      "A1": "K",
+      "A2": "C",
+      "A3": "C",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 79",
+      "A1": "B",
+      "A2": "C",
+      "A3": "K",
+      "A4": "K",
+      "Hasil": "Tidak"
+    },
+    {
+      "Nama Siswa": "Siswa 80",
+      "A1": "B",
+      "A2": "B",
+      "A3": "C",
+      "A4": "K",
+      "Hasil": "Tidak"
+    }
+  ]
+}
